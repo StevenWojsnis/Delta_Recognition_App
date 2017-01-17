@@ -45,7 +45,7 @@ public class PracticeActivity extends Activity implements AdapterView.OnItemSele
     protected static File assetsDir;
     Button myButton;
     Button audioButton;
-    Button sippaButton;
+    //Button sippaButton;
     Spinner spinner;
     private String selectedFile;
     Thread recordingThread;
@@ -122,6 +122,8 @@ public class PracticeActivity extends Activity implements AdapterView.OnItemSele
             }
         });
 
+
+        //TESTING DIFFERENT RECORDER
 //        findViewById(R.id.sippa_button).setEnabled(false);
 //        sippaButton = (Button) findViewById(R.id.sippa_button);
 //        sippaButton.setVisibility(View.INVISIBLE);
