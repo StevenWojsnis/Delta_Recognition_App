@@ -17,12 +17,11 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int audio_button=0x7f060006;
-        public static final int button_send=0x7f060005;
+        public static final int audio_button=0x7f060005;
+        public static final int button_send=0x7f060004;
         public static final int caption_text=0x7f060000;
         public static final int record_cont=0x7f060002;
         public static final int result_text=0x7f060003;
-        public static final int sippa_button=0x7f060004;
         public static final int spinner2=0x7f060001;
     }
     public static final class layout {

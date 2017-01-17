@@ -122,27 +122,27 @@ public class PracticeActivity extends Activity implements AdapterView.OnItemSele
             }
         });
 
-        findViewById(R.id.sippa_button).setEnabled(false);
-        sippaButton = (Button) findViewById(R.id.sippa_button);
-        sippaButton.setVisibility(View.INVISIBLE);
+//        findViewById(R.id.sippa_button).setEnabled(false);
+//        sippaButton = (Button) findViewById(R.id.sippa_button);
+//        sippaButton.setVisibility(View.INVISIBLE);
 
-        sippaButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                //Begins process of recording
-                if (!recording) {
-                    audioRecord(v);
-                    CharSequence str = "End Recording";
-                    ((Button) findViewById(R.id.audio_button)).setText(str);
-                }
-                //ends the recording process
-                else {
-                    audioRecord(v);
-                    CharSequence str = "Start Recording";
-                    ((Button) findViewById(R.id.audio_button)).setText(str);
-                }
-            }
-        });
+//        sippaButton.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                //Begins process of recording
+//                if (!recording) {
+//                    audioRecord(v);
+//                    CharSequence str = "End Recording";
+//                    ((Button) findViewById(R.id.audio_button)).setText(str);
+//                }
+//                //ends the recording process
+//                else {
+//                    audioRecord(v);
+//                    CharSequence str = "Start Recording";
+//                    ((Button) findViewById(R.id.audio_button)).setText(str);
+//                }
+//            }
+//        });
     }
 
     //convert an inputstream to text
@@ -439,20 +439,20 @@ public class PracticeActivity extends Activity implements AdapterView.OnItemSele
             findViewById(R.id.button_send).setVisibility(View.INVISIBLE);
         }
 
-        else if (position == 2) {
-
-            ((TextView) findViewById(R.id.result_text)).setText("");
-            Log.i(TAG, "Option 1");
-            findViewById(R.id.sippa_button).setEnabled(true);
-            findViewById(R.id.sippa_button).setVisibility(View.VISIBLE);
-            audioButton.setVisibility(View.INVISIBLE);
-            findViewById(R.id.button_send).setVisibility(View.INVISIBLE);
-
-        }
+//        else if (position == 2) {
+//
+//            ((TextView) findViewById(R.id.result_text)).setText("");
+//            Log.i(TAG, "Option 1");
+//            findViewById(R.id.sippa_button).setEnabled(true);
+//            findViewById(R.id.sippa_button).setVisibility(View.VISIBLE);
+//            audioButton.setVisibility(View.INVISIBLE);
+//            findViewById(R.id.button_send).setVisibility(View.INVISIBLE);
+//
+//        }
 
         //if "Select file" option is chosen open alert window for user to select file from the sync
         //directory within the application
-        else if (position == 3) {
+        else if (position == 2) {
             //Processing button is made visible
             findViewById(R.id.button_send).setEnabled(true);
             findViewById(R.id.button_send).setVisibility(View.VISIBLE);

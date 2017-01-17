@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Dec 24 21:34:58 EST 2016
+#Tue Jan 17 16:22:58 EST 2017
 5.base=C\:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\pocketsphinx-android-5prealpha-nolib_c1d1bb5998a13a2b7b97084f0df21019f039aebc
 42.base=C\:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
 32.set=ANDROID_RESOURCE

@@ -5,13 +5,13 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="168868470486919"
+    timestamp="520383147281392"
     token="6171437977059176273"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="176" />
+        duration="184" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -20,14 +20,14 @@
         duration="30" />
     <task
         name="verifier"
-        duration="4" />
+        duration="5" />
 
     <artifact
         location="C:\Users\Steven\Desktop\Delta_Recognition_App\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="168868470486919"
+        timestamp="520383147281392"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Steven\Desktop\Delta_Recognition_App\app\build\outputs\apk\app-debug.apk"

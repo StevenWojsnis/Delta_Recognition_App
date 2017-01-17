@@ -7,9 +7,9 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endLine": 7,
+                    "endLine": 6,
                     "endColumn": 19,
-                    "endOffset": 272
+                    "endOffset": 232
                 },
                 "from": {
                     "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml",
@@ -17,162 +17,106 @@
                         "startLine": 12,
                         "startColumn": 4,
                         "startOffset": 847,
-                        "endLine": 17,
+                        "endLine": 16,
                         "endColumn": 19,
-                        "endOffset": 1064
+                        "endOffset": 1024
                     }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 54,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 277,
-                    "endColumn": 54,
-                    "endOffset": 327
+                    "startOffset": 292,
+                    "endColumn": 56,
+                    "endOffset": 344
                 },
                 "from": {
-                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 108,
-                        "endColumn": 54,
-                        "endOffset": 158
-                    }
+                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 332,
-                    "endColumn": 56,
-                    "endOffset": 384
+                    "startOffset": 349,
+                    "endColumn": 120,
+                    "endOffset": 465
                 },
                 "from": {
-                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 790,
-                        "endColumn": 56,
-                        "endOffset": 842
-                    }
+                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 389,
-                    "endColumn": 120,
-                    "endOffset": 505
+                    "startOffset": 470,
+                    "endColumn": 121,
+                    "endOffset": 587
                 },
                 "from": {
-                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 410,
-                        "endColumn": 120,
-                        "endOffset": 526
-                    }
+                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 510,
-                    "endColumn": 121,
-                    "endOffset": 627
+                    "startOffset": 592,
+                    "endColumn": 90,
+                    "endOffset": 678
                 },
                 "from": {
-                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 531,
-                        "endColumn": 121,
-                        "endOffset": 648
-                    }
+                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 632,
-                    "endColumn": 90,
-                    "endOffset": 718
+                    "startOffset": 683,
+                    "endColumn": 150,
+                    "endOffset": 829
                 },
                 "from": {
-                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 168,
-                        "endColumn": 90,
-                        "endOffset": 254
-                    }
+                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 723,
-                    "endColumn": 150,
-                    "endOffset": 869
+                    "startOffset": 834,
+                    "endColumn": 83,
+                    "endOffset": 913
                 },
                 "from": {
-                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 259,
-                        "endColumn": 150,
-                        "endOffset": 405
-                    }
+                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 874,
-                    "endColumn": 83,
-                    "endOffset": 953
-                },
-                "from": {
-                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 653,
-                        "endColumn": 83,
-                        "endOffset": 732
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 958,
+                    "startOffset": 918,
                     "endColumn": 52,
-                    "endOffset": 1006
+                    "endOffset": 966
                 },
                 "from": {
-                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 737,
-                        "endColumn": 52,
-                        "endOffset": 785
-                    }
+                    "file": "C:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\src\\main\\res\\values\\strings.xml"
                 }
             }
         ]

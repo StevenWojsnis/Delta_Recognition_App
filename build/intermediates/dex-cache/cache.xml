@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="22bd3a94248d274587edf042672ff7ff3dba5da0">
+        sha1="190ca9ccc42fa895414be67684a89b314a897851">
         <dex dex="C:\Users\Steven\Desktop\Delta_Recognition_App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7426c02b06953c33da01e36a3cbf1e7831fcc8af\classes.dex" />
     </item>
     <item
@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="e761b7de1a95bb301f57d92090370b97546ca9f8">
+        sha1="2c80eabf120662aae8ff9a77f80020881302021a">
         <dex dex="C:\Users\Steven\Desktop\Delta_Recognition_App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_13b307bcb2fa1748f741ddd3d3f931c033ffb87e\classes.dex" />
     </item>
 

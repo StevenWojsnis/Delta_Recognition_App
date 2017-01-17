@@ -13,7 +13,6 @@
     <string-array name="option_array">
         <item>--Select an option--</item>
         <item>Record using Delta Point</item>
-        <item>Record using SIPPA</item>
         <item>Select A File</item>
     </string-array>
 </resources>
