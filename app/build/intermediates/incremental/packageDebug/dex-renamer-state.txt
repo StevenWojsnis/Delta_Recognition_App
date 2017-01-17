@@ -1,0 +1,7 @@
+#Sat Dec 24 21:34:57 EST 2016
+base.0=C\:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7426c02b06953c33da01e36a3cbf1e7831fcc8af
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_13b307bcb2fa1748f741ddd3d3f931c033ffb87e\\classes.dex
+base.1=C\:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_13b307bcb2fa1748f741ddd3d3f931c033ffb87e
+file.0=C\:\\Users\\Steven\\Desktop\\Delta_Recognition_App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7426c02b06953c33da01e36a3cbf1e7831fcc8af\\classes.dex

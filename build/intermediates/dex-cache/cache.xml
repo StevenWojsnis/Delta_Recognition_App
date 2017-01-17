@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Steven\Desktop\Delta_Recognition_App\app\libs\pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9abb9316583beaa841a16f884282af120c5d4aa9">
+        <dex dex="C:\Users\Steven\Desktop\Delta_Recognition_App\app\build\intermediates\transforms\dex\debug\folders\1000\2\pocketsphinx-android-5prealpha-nolib_c1d1bb5998a13a2b7b97084f0df21019f039aebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Steven\Desktop\Delta_Recognition_App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="22bd3a94248d274587edf042672ff7ff3dba5da0">
+        <dex dex="C:\Users\Steven\Desktop\Delta_Recognition_App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7426c02b06953c33da01e36a3cbf1e7831fcc8af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Steven\Desktop\Delta_Recognition_App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e761b7de1a95bb301f57d92090370b97546ca9f8">
+        <dex dex="C:\Users\Steven\Desktop\Delta_Recognition_App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_13b307bcb2fa1748f741ddd3d3f931c033ffb87e\classes.dex" />
+    </item>
+
+</items>
