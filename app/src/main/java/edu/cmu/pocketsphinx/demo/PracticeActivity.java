@@ -1,6 +1,5 @@
 package edu.cmu.pocketsphinx.demo;
 /**
- * Created by Steven ,Angelo, Kihaen, Nayeem
  * Delta Point
  */
 
